@@ -1,0 +1,19 @@
+# ninja log v5
+1	112	0	CMakeFiles/filters.dir/src/main/cpp/filters.c.o	c88793773b051087
+113	239	0	../../../../build/intermediates/cmake/debug/obj/armeabi-v7a/libfilters.so	5da419993c0c51a9
+2	430	0	CMakeFiles/filters.dir/src/main/cpp/filters.c.o	c88793773b051087
+430	752	0	../../../../build/intermediates/cmake/debug/obj/armeabi-v7a/libfilters.so	5da419993c0c51a9
+2	81	0	CMakeFiles/filters.dir/src/main/cpp/filters.c.o	c88793773b051087
+82	145	0	../../../../build/intermediates/cmake/debug/obj/armeabi-v7a/libfilters.so	5da419993c0c51a9
+2	211	0	CMakeFiles/filters.dir/src/main/cpp/filters.c.o	c88793773b051087
+212	558	0	../../../../build/intermediates/cmake/debug/obj/armeabi-v7a/libfilters.so	5da419993c0c51a9
+3	95	0	CMakeFiles/filters.dir/src/main/cpp/filters.c.o	c88793773b051087
+95	340	0	../../../../build/intermediates/cmake/debug/obj/armeabi-v7a/libfilters.so	5da419993c0c51a9
+2	79	0	CMakeFiles/filters.dir/src/main/cpp/filters.c.o	c88793773b051087
+79	153	0	../../../../build/intermediates/cmake/debug/obj/armeabi-v7a/libfilters.so	5da419993c0c51a9
+14	1400	0	CMakeFiles/filters.dir/src/main/cpp/filters.c.o	c88793773b051087
+1400	2097	0	../../../../build/intermediates/cmake/debug/obj/armeabi-v7a/libfilters.so	5da419993c0c51a9
+2	658	0	CMakeFiles/filters.dir/src/main/cpp/filters.c.o	c88793773b051087
+658	973	0	../../../../build/intermediates/cmake/debug/obj/armeabi-v7a/libfilters.so	5da419993c0c51a9
+2	106	0	CMakeFiles/filters.dir/src/main/cpp/filters.c.o	c88793773b051087
+106	236	0	../../../../build/intermediates/cmake/debug/obj/armeabi-v7a/libfilters.so	5da419993c0c51a9

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Panos\Desktop\BLEApp\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\Panos\Desktop\BLEApp\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_869ea7db0edecfaf6aea65f35f4eb25201f5b058\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Panos\Desktop\BLEApp\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="fcc7021331be47367c814e301486dc43b8be3a0b">
+        <dex dex="C:\Users\Panos\Desktop\BLEApp\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_11e7c561a516edce1251b87a70b9a08bd2715928\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Panos\.android\build-cache\8b40cd5c5c0c19d99437965a722b5f771cbdde3e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="987adec819c9a98faf215814f41195da48fc724e">
+        <dex dex="C:\Users\Panos\Desktop\BLEApp\app\build\intermediates\pre-dexed\debug\classes_521390e78476515bfa0173674645675885b8ba63.jar" />
+    </item>
+
+</items>
